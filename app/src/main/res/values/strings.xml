@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spellfire Deck Builder</string>
+    <string name="card_set">Card Set</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="level">Level</string>
+    <string name="attributes">Attributes</string>
+    <string name="type">Type</string>
+    <string name="frequency">Frequency</string>
+    <string name="world">World</string>
+    <string name="usable_cards">Usable Cards</string>
+</resources>
