@@ -7,6 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
+import br.com.gilsouza.spellfiredeckbuilder.dao.interfaceDAO.ICardDAO;
 import br.com.gilsouza.spellfiredeckbuilder.db.DbContentProvider;
 import br.com.gilsouza.spellfiredeckbuilder.db.schema.ICardSchema;
 import br.com.gilsouza.spellfiredeckbuilder.model.Card;
